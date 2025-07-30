@@ -17,7 +17,8 @@
 
 ## 🖥️ Logo
 
-![Smart Log Analyzer Interface](./assets/logo.png)
+|![Smart Log Analyzer Interface](./assets/logo.png)|
+|---|
 
 ---
 
