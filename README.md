@@ -15,9 +15,9 @@
 
 ---
 
-## 🖥️ Screenshot
+## 🖥️ Logo
 
-![Smart Log Analyzer Interface](./assets/screenshot.png)
+![Smart Log Analyzer Interface](./assets/logo.png)
 
 ---
 
